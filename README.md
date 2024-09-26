@@ -1,2 +1,2 @@
-# -Cancer-Gene-Prognosis-Atlas
- Cancer Gene Prognosis Atlas (CGPA)
+# Cancer-Gene-Prognosis-Atlas
+Cancer Gene Prognosis Atlas (CGPA) CGPA (Cancer Gene Prognosis Atlas) is an innovative online tool designed to enhance gene-centric biomarker discovery and validation in cancer genomics. CGPA offers comprehensive analysis capabilities, addressing the limitations of existing databases by offering multivariable and multi-gene survival models, crucial for accurate prognostic assessments.
